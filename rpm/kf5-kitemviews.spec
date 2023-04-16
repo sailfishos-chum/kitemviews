@@ -1,4 +1,4 @@
-%global kf5_version 5.104.0
+%global kf5_version 5.105.0
 
 Name: opt-kf5-kitemviews
 Version: 5.105.0
